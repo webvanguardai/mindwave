@@ -32,13 +32,13 @@ export default function Hero() {
           </span>
 
           <h1 className="font-serif text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold leading-tight mb-6">
-            You don&apos;t have to<br />
-            <span className="text-[#8FAF9F]">figure this out alone.</span>
+            It&apos;s okay to<br />
+            <span className="text-[#8FAF9F]">need support.</span>
           </h1>
 
           <p className="text-lg sm:text-xl md:text-2xl text-white/85 max-w-2xl mx-auto mb-10 leading-relaxed">
-            Evidence-based therapy, coaching and wellness —<br className="hidden sm:block" />
-            designed around you.
+            BACP-registered therapy and coaching — warm, confidential,<br className="hidden sm:block" />
+            at your pace.
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
@@ -46,13 +46,13 @@ export default function Hero() {
               href="#contact"
               className="px-8 py-4 rounded-full bg-white text-primary font-semibold text-base hover:bg-[#8FAF9F] hover:text-white transition-all duration-300 shadow-lg"
             >
-              Book a free consultation
+              Talk to someone
             </a>
             <a
               href="#services"
               className="px-8 py-4 rounded-full border-2 border-white/60 text-white font-medium text-base hover:bg-white/10 hover:border-white transition-all duration-300 backdrop-blur-sm"
             >
-              Explore our services
+              How we can help
             </a>
           </div>
         </motion.div>

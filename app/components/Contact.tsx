@@ -41,10 +41,10 @@ export default function Contact() {
         >
           <span className="text-sm font-semibold tracking-widest text-[#8FAF9F] uppercase">Take the first step</span>
           <h2 className="font-serif text-3xl sm:text-4xl md:text-5xl font-bold text-[#2D4A3E] mt-3 mb-4">
-            Book your free consultation
+            Talk to someone today
           </h2>
           <p className="text-gray-600 text-lg max-w-xl mx-auto">
-            No commitment, no pressure. Just a friendly conversation to see how we can help.
+            A free, no-pressure chat to understand where you are and how we can help.
           </p>
         </motion.div>
 

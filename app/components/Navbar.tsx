@@ -58,7 +58,7 @@ export default function Navbar() {
           href="#contact"
           className="hidden md:inline-flex items-center px-5 py-2 rounded-full bg-primary text-white text-sm font-medium hover:bg-primary-800 transition-colors"
         >
-          Book Free Consultation
+          Talk to Someone
         </a>
 
         {/* Mobile burger */}
@@ -100,7 +100,7 @@ export default function Navbar() {
                 onClick={() => setMenuOpen(false)}
                 className="inline-flex items-center px-5 py-2 rounded-full bg-primary text-white text-sm font-medium hover:bg-primary-800 transition-colors"
               >
-                Book Free Consultation
+                Talk to Someone
               </a>
             </li>
           </ul>
